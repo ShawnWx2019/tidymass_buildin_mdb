@@ -1,0 +1,31 @@
+Package: TidymassBuildinMDB
+Title: A buildin metabolite database for tidymass shinyapp
+Version: 1.0.0
+Authors@R: 
+  c(person(
+      given = "Xiao", # Your First Name
+      family = "Wang", # Your Last Name
+      email = "shawnwang2016@126.com", # Your email
+      role = c("cre") # Your role (here author/creator)
+      ),
+      person(
+        given = "Yijiang", # Your First Name
+        family = "Liu", # Your Last Name
+        email = "xiaotao.shen@outlook.com", # Your email
+        role = c("aut") # Your role (here author/creator)
+      ),
+      person(
+        given = "Xiaotao", # Your First Name
+        family = "Shen", # Your Last Name
+        email = "xiaotao.shen@outlook.com", # Your email
+        role = c("aut") # Your role (here author/creator)
+      ))
+Description: Description: A metabolite database including MoNA, MassBank, GNPS and HMDB.
+License: MIT + file LICENSE
+Imports: 
+    config,
+    golem,
+    shiny
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
