@@ -30,13 +30,4 @@
 
 "hmdb_ms2"
 
-##------------------------------------------------------------------------------
-#' @title Global Natural Product Social Molecular Networking
-#' @description GNPS
-#' @author Xiaotao Shen
-#' \email{xiaotao.shen@@outlook.com}
-#' @docType data
-#' @name gnps_ms2
-#' @format A databaseClass object.
 
-"gnps_ms2"
